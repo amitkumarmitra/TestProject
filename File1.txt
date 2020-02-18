@@ -1,11 +1,13 @@
 Hello world!!
 
-change :-> to implement Login feature and update some code
+1. change :-> to implement Login feature and update some code
 
-change :-> to test Login feature
+2. change :-> to test Login feature
 
-change :-> to git bug1
+3. change :-> to git bug1
 
-change :-> To check 3-way merge by teammate
+4. change :-> To check 3-way merge by teammate
 
-change :-> to git bug2
+5. change :-> to git bug2
+
+6. change:-> To check the rebase
