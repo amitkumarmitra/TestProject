@@ -6,4 +6,6 @@ change :-> to test Login feature
 
 change :-> to git bug1
 
-change :->To check 3-way merge by teammate
+change :-> To check 3-way merge by teammate
+
+change :-> to git bug2
