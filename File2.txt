@@ -1,7 +1,9 @@
 code to implement CR1
 
-change for testing stash
+1. change for testing stash
 
-chamge to file2 to check the push
+2. change to file2 to check the push
 
-change by teammate on remote reposatory
+3. change by teammate on remote reposatory
+
+4. change to test rebase on remote repo by teammate
